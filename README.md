@@ -65,11 +65,6 @@ more:-
 
 ---
 
-## 📜 License
-MIT License — feel free to use for learning or projects.
-
----
-
 ## 🙌 Acknowledgements
 Special thanks to the bootcamp community for collaboration and feedback.
 
