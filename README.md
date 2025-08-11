@@ -26,15 +26,37 @@ It covers:
 
 ---
 
+---
+
+## 📊 Results
+
+**1️⃣ Training Accuracy & Loss**
+![Training Curves](results/notebook_image_4.png)
+
+**2️⃣ Confusion Matrix**
+![Confusion Matrix](results/notebook_image_5.png)
+
+---
+
+## 🚀 How to Run
+1. Open in Colab by clicking the badge above ☝  
+2. Make sure GPU is enabled: **Runtime → Change runtime type → GPU**
+3. Run all cells in `image_ai_bootcamp.ipynb`
+4. Modify paths if using your own dataset
+
+---
 
 ## 📽 Demo
-*30-sec video link here*
+*30-second video showing model predictions coming soon*
 
 ---
 
 ## 📜 License
-MIT License
+MIT License — feel free to use for learning or projects.
 
+---
 
+## 🙌 Acknowledgements
+Special thanks to the bootcamp community for collaboration and feedback.
 
 
