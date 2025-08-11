@@ -1,20 +1,39 @@
-(Machine Learning)
- Project: (BUILD AN AI THAT SEES)
+# Vision AI: Image Recognition Bootcamp Project
 
-Project Title: Vision AI in 5 Days: From Beginner to Image Recognition Expert.
+🚀 End-to-end image recognition model built in Python using TensorFlow/Keras during a 5-day AI bootcamp.
 
-Project Description:
-This project guides us through building an image recognition model in Python using deep learning. Over five days, students learn fundamental concepts and practical skills in image classification, culminating in a deployable, portfolio-ready toolkit showcasing their expertise in computer vision.
+---
 
-What is This Project About?
-The bootcamp is designed to transform beginners into skilled AI practitioners by teaching them how to preprocess images, train convolutional neural networks (CNNs), and build an image recognition system using Python and popular libraries like TensorFlow/Keras. Participants develop hands-on experience with essential machine learning workflows, deepen their understanding of model evaluation, and create professional portfolio assets—preparing them for high-paying roles in data science and computer vision.
-Learning Outcomes & Skills Developed:
-Image preprocessing and augmentation
-Deep learning fundamentals and CNN architecture
-Model training, evaluation, and optimization
-Visualization of results and metrics
-Collaboration and documentation best practices
-Showcasing ML projects for recruiters
+## 📌 Overview
+This notebook (`image_ai_bootcamp.ipynb`) demonstrates:
+- Image preprocessing & augmentation
+- CNN model training & evaluation
+- Transfer Learning with MobileNetV2
+- Visualization of results and metrics
+
+---
+
+## 📊 Results
+- **Custom CNN Accuracy:** XX%
+- **Transfer Learning Accuracy:** XX%
+- Precision, Recall, F1-score calculated & visualized
+
+---
+
+## 🚀 How to Run
+Open in Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adil mirzz/image-ai-bootcamp/blob/main/image_ai_bootcamp.ipynb)
+
+---
+
+## 📽 Demo
+*30-sec video link here*
+
+---
+
+## 📜 License
+MIT License
+
 
 
 
