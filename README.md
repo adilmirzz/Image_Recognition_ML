@@ -1,32 +1,31 @@
-# Vision AI: Image Recognition Bootcamp Project
+# Vision AI in 5 Days: From Beginner to Image Recognition Expert
 
-🚀 End-to-end image recognition model built in Python using TensorFlow/Keras during a 5-day AI bootcamp.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilmirzz/VisionAI-ImageRecognition/blob/main/image_ai_bootcamp.ipynb)
+
+🚀 **An end-to-end Image Recognition AI project** built in Python using Deep Learning (TensorFlow/Keras), trained to classify images with high accuracy.
 
 ---
 
 ## 📌 Overview
-This notebook (`image_ai_bootcamp.ipynb`) demonstrates:
+This project was developed during a 5-day bootcamp to guide participants from zero to building a complete **image recognition model** using Convolutional Neural Networks (CNNs) and Transfer Learning.
+
+It covers:
 - Image preprocessing & augmentation
 - CNN model training & evaluation
-- Transfer Learning with MobileNetV2
-- Visualization of results and metrics
+- Transfer learning with MobileNetV2
+- Visualization of metrics & predictions
+- Documentation for a recruiter-ready portfolio
 
 ---
 
-## 📊 Results
-- **Custom CNN Accuracy:** XX%
-- **Transfer Learning Accuracy:** XX%
-- Precision, Recall, F1-score calculated & visualized
+## 🛠 Tech Stack
+- **Language:** Python
+- **Libraries:** TensorFlow/Keras, OpenCV, NumPy, Matplotlib, scikit-learn
+- **Tools:** Google Colab (GPU), GitHub
+- **Dataset:** CIFAR-10 / Cats vs Dogs (Kaggle)
 
 ---
 
-## 🚀 How to Run
-Open in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilmirzz/image-ai-bootcamp/blob/main/image_ai_bootcamp.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilmirzz/image-ai-bootcamp/blob/main/image_ai_bootcamp.ipynb)
-
----
 
 ## 📽 Demo
 *30-sec video link here*
