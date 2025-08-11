@@ -30,11 +30,25 @@ It covers:
 
 ## 📊 Results
 
+Here are some of the key outputs from my Image Recognition AI model:
+
+**1️⃣ Training Accuracy & Loss**
+![Training Curves](results/notebook_image_1.png)
+
+**2️⃣ Confusion Matrix**
+![Confusion Matrix](results/notebook_image_2.png)
+
+**3️⃣ Sample Predictions**
+![Sample Predictions](results/notebook_image_3.png)
+
+more:-
+
 **1️⃣ Training Accuracy & Loss**
 ![Training Curves](results/notebook_image_4.png)
 
 **2️⃣ Confusion Matrix**
 ![Confusion Matrix](results/notebook_image_5.png)
+
 
 ---
 
