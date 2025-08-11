@@ -22,7 +22,9 @@ This notebook (`image_ai_bootcamp.ipynb`) demonstrates:
 
 ## 🚀 How to Run
 Open in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Adilmirzz/image-ai-bootcamp/blob/main/image_ai_bootcamp.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilmirzz/image-ai-bootcamp/blob/main/image_ai_bootcamp.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adilmirzz/image-ai-bootcamp/blob/main/image_ai_bootcamp.ipynb)
 
 ---
 
